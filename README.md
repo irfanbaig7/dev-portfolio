@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dev Portfolio
 
 This repository contains my personal developer portfolio.
@@ -9,3 +10,6 @@ This repository contains my personal developer portfolio.
 
 ## Status
 Initial setup in progress.
+=======
+# dev-portfolio
+>>>>>>> 307ddb91ecc2dc0e0aa5cafa91d360a2b3464edc
