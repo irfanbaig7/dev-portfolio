@@ -8,11 +8,14 @@ import Expreiense from "../src/sections/Experience.jsx"
 import Testimonials from "../src/sections/Testimonials.jsx"
 import Contact from "../src/sections/Contact.jsx"
 import Footer from "../src/sections/Footer.jsx"
+import ParticlesBackground from './components/ParticlesBackground.jsx'
 
 
 const App = () => {
   return (
     <div className='relative gradient text-white'>
+
+      <ParticlesBackground />
       <Navbar />
       <Home />
       <About />
@@ -21,8 +24,8 @@ const App = () => {
       <Expreiense />
       <Testimonials />
       <Contact />
-      <Footer />    
-      
+      <Footer />
+
     </div>
   )
 }
