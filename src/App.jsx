@@ -9,11 +9,14 @@ import Testimonials from "../src/sections/Testimonials.jsx"
 import Contact from "../src/sections/Contact.jsx"
 import Footer from "../src/sections/Footer.jsx"
 import ParticlesBackground from './components/ParticlesBackground.jsx'
+import CustomCursor from './components/CustomCursor.jsx'
 
 
 const App = () => {
   return (
     <div className='relative gradient text-white'>
+
+      <CustomCursor />
 
       <ParticlesBackground />
       <Navbar />
